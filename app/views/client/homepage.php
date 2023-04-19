@@ -72,7 +72,7 @@
                                     <li class="language">English <i class="fa fa-angle-down"></i>
                                         <ul class="dropdown-list">
                                             <li><a href="#">English</a></li>
-                                            <li><a href="#">French</a></li>
+                                            <li><a href="#">Tiếng Việt</a></li>
                                         </ul>
                                     </li>
                                     <li class="curreny-wrap">Currency <i class="fa fa-angle-down"></i>
